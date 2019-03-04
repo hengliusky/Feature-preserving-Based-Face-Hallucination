@@ -1,0 +1,10 @@
+batch_size = 16
+input_size = 16
+label_size = 128
+channels = 3
+num_epoch = 50
+train_image_path = './data/train/'
+test_image_path = './data/test/'
+save_img_dir = './results/'
+checkpoint_dir = "./checkpoint"
+summary_dir = "./summary"
